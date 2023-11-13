@@ -6,7 +6,7 @@ import os
 from moviepy.editor import VideoFileClip, AudioFileClip
 from gtts import gTTS
 
-client = OpenAI(api_key="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")
+client = OpenAI(api_key="")
 
 # Load the video
 video = cv2.VideoCapture("bjj1.mp4")

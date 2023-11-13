@@ -6,7 +6,7 @@ import requests
 import os
 
 # Set your OpenAI API key
-openai.api_key = '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'
+openai.api_key = ''
 
 # Load the video
 video = cv2.VideoCapture("bjj1.mp4")
